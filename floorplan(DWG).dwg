@@ -1,0 +1,1154 @@
+push graphic-context
+compliance "SVG"
+fill "black"
+fill-opacity 1
+stroke "none"
+stroke-width 1
+stroke-opacity 1
+fill-rule nonzero
+encoding "UTF-8"
+viewbox 0 0 421 600
+affine 1 0 0 1 0 0
+push class "walls path,         .wall"
+fill "none"
+stroke "black"
+stroke-width 4
+pop class
+push class "walls rect.clear"
+fill "none"
+stroke "black"
+stroke-width 0.5
+pop class
+push class "walls .dashed,         .dashed"
+stroke-width 1
+stroke-dasharray 5 4
+pop class
+push class "walls .dashed2,         .dashed2"
+stroke-dasharray 10 10
+stroke-width 0.5
+pop class
+push class "windows path,         .windows use"
+fill "none"
+stroke "black"
+pop class
+push class "windows .h"
+pop class
+push class "windows .hb"
+pop class
+push class "windows use.h"
+stroke-width 0.5
+pop class
+push class "windows use.hb"
+stroke-width 0.5
+pop class
+push class "windows .v"
+pop class
+push class "windows use.v"
+stroke-width 0.5
+pop class
+push class "doors .clear,         .doors .clear *"
+stroke-width 0.5
+stroke-dasharray 10 5
+stroke-dashoffset 2
+stroke "black"
+fill "none"
+pop class
+push class "doors .sliding-door"
+stroke-width 0.5
+pop class
+push class "doors path"
+fill "none"
+stroke "black"
+pop class
+push class "doors .angle"
+fill "none"
+stroke-width 0.2
+stroke "rgba(0, 0, 0, 0.5)"
+pop class
+push class "stairs path"
+fill "none"
+stroke "black"
+stroke-width 0.5
+stroke-dasharray 4 3
+pop class
+push class "stairs path.h"
+stroke-dasharray 4 4
+pop class
+push class "extra path"
+fill "none"
+stroke "black"
+stroke-width 0.5
+pop class
+push class "text"
+font-style "bold"
+font-size "6px"
+font-family "sans-serif"
+pop class
+push graphic-context "border"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M0 0 V600 H147.515 M264 600 H308.983 M329.983 600 H421 V0 H0"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "texts"
+push graphic-context "fb"
+push graphic-context
+class "text"
+translate 10,40
+text 0,0 "Bed Room"
+pop graphic-context
+push graphic-context
+class "text"
+translate 10,47
+text 0,0 "غرفة نوم"
+pop graphic-context
+pop graphic-context
+push graphic-context "mk"
+push graphic-context
+class "text"
+translate 70,40
+text 0,0 "Main Kitchen"
+pop graphic-context
+push graphic-context
+class "text"
+translate 70,47
+text 0,0 "المطبخ الرئيسي"
+pop graphic-context
+pop graphic-context
+push graphic-context "tr"
+push graphic-context
+class "text"
+translate 165,40
+text 0,0 "Terrass"
+pop graphic-context
+push graphic-context
+class "text"
+translate 165,47
+text 0,0 "جلسة خارجية"
+pop graphic-context
+pop graphic-context
+push graphic-context "sp"
+push graphic-context
+class "text"
+translate 270,40
+text 0,0 "Swimming Pool"
+pop graphic-context
+push graphic-context
+class "text"
+translate 270,47
+text 0,0 "حوض سباحة"
+pop graphic-context
+pop graphic-context
+push graphic-context "cy"
+push graphic-context
+class "text"
+translate 270,90
+text 0,0 "Courtyard"
+pop graphic-context
+push graphic-context
+class "text"
+translate 270,97
+text 0,0 "فناء داخلي"
+pop graphic-context
+pop graphic-context
+push graphic-context "sk"
+push graphic-context
+class "text"
+translate 120,170
+text 0,0 "Kitchen"
+pop graphic-context
+push graphic-context
+class "text"
+translate 120,177
+text 0,0 "مطبخ خارجي"
+pop graphic-context
+pop graphic-context
+push graphic-context "lr"
+push graphic-context
+class "text"
+translate 250,170
+text 0,0 "Living Room"
+pop graphic-context
+push graphic-context
+class "text"
+translate 250,177
+text 0,0 "الصالة الرئيسية"
+pop graphic-context
+pop graphic-context
+push graphic-context "gr"
+push graphic-context
+class "text"
+translate 120,290
+text 0,0 "Guest Room"
+pop graphic-context
+push graphic-context
+class "text"
+translate 120,297
+text 0,0 "صالة الضيوف"
+pop graphic-context
+pop graphic-context
+push graphic-context "cy2"
+push graphic-context
+class "text"
+translate 260,290
+text 0,0 "Courtyard"
+pop graphic-context
+push graphic-context
+class "text"
+translate 260,297
+text 0,0 "فناء داخلي"
+pop graphic-context
+pop graphic-context
+push graphic-context "dr"
+push graphic-context
+class "text"
+translate 120,400
+text 0,0 "Dining Room"
+pop graphic-context
+push graphic-context
+class "text"
+translate 120,407
+text 0,0 "صالة طعام"
+pop graphic-context
+pop graphic-context
+push graphic-context "mgr"
+push graphic-context
+class "text"
+translate 240,400
+text 0,0 "Main Guest Room"
+pop graphic-context
+push graphic-context
+class "text"
+translate 240,407
+text 0,0 "مجلس الرجال"
+pop graphic-context
+pop graphic-context
+push graphic-context "dvr"
+push graphic-context
+class "text"
+translate 5,570
+text 0,0 "Driver Room"
+pop graphic-context
+push graphic-context
+class "text"
+translate 5,577
+text 0,0 "غرفة السائق"
+pop graphic-context
+pop graphic-context
+push graphic-context "gr2"
+push graphic-context
+class "text"
+translate 70,570
+text 0,0 "Guest Room"
+pop graphic-context
+push graphic-context
+class "text"
+translate 70,577
+text 0,0 "صالة الضيوف"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "first-row"
+push graphic-context "top-bedroom"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M 0 0 L 0 123.9 L 33 123.9 M 40 123.9 L 44.1 123.9 L 44.1 121 M 44.1 93 L 44.1 35 M 44.1 15 L 44.1 0 L 0 0 "
+pop graphic-context
+push graphic-context
+class "path"
+path "M 0 65.1 L 28 65.1 M 40 65.1 L 44.1 65.1 M 0 90.3 L33 90.3 M 40 90.3 L 44.1 90.3"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "windows"
+push graphic-context
+push graphic-context "tb-w1"
+fill "none"
+stroke "black"
+stroke-width 1
+class "path"
+path "M 44.1 0 M 44.1 93 L 44.1 121 M 44.1 123.9"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 2 2
+fill "none"
+stroke "black"
+stroke-width 1
+use "url(#tb-w1)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context "tb-w2"
+affine 1 0 0 1 0 -1
+fill "none"
+stroke "black"
+stroke-width 1
+class "path"
+path "M 33 90.3 H40"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 2
+fill "none"
+stroke "black"
+stroke-width 1
+use "url(#tb-w2)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context "tb-w3"
+affine 1 0 0 1 0 -1
+fill "none"
+stroke "black"
+stroke-width 1
+class "path"
+path "M 33 123.9 H40"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 2
+fill "none"
+stroke "black"
+stroke-width 1
+use "url(#tb-w3)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context "tb-main-door"
+push graphic-context
+class "angle"
+class "path"
+path "M 44.1 35 Q 25 35 27 15"
+pop graphic-context
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 1
+class "path"
+path "M 44.1 15 H27"
+pop graphic-context
+pop graphic-context
+push graphic-context "tb-bathroom-door"
+push graphic-context
+class "angle"
+class "path"
+path "M 28 65.1 Q 27 79 40 78"
+pop graphic-context
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 1
+class "path"
+path "M40 65.1 V78"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "extra"
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 0.5
+class "path"
+path "M 0 123.9 L 44.1 90.3 M 44.1 123.9 L 0 90.3"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "main-kitchen"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M 44.1 123.9 L 50 123.9 M 70 123.9 L 85.785 123.9 L 85.785 121 M 85.785 93 L 85.785 73 M 85.785 90 L 140.515 90 L 140.515 73 M140.515 15 L140.515 0 "
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "windows"
+push graphic-context "window-main-kitchen-2"
+fill "none"
+stroke "black"
+stroke-width 1
+class "path"
+path "M 87 93 L 87 121 M 44.1 123.9"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -2 -2
+fill "none"
+stroke "black"
+stroke-width 1
+use "url(#window-main-kitchen-2)"
+pop graphic-context
+push graphic-context "window-main-kitchen-1"
+affine 1 0 0 1 1 1
+fill "none"
+stroke "black"
+stroke-width 1
+class "path"
+path "M 140.515 73 L 140.515 15"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -2 -2
+fill "none"
+stroke "black"
+stroke-width 1
+use "url(#window-main-kitchen-1)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "angle"
+class "path"
+path "M 70 123.9 Q70 103.9 50 103.9"
+pop graphic-context
+push graphic-context
+fill "none"
+stroke "black"
+class "path"
+path "M 50 123.9 V103.9"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "terrass"
+push graphic-context
+class "walls"
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 4
+class "path"
+path "M 85.785 123.9 H226.82"
+pop graphic-context
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 0.5
+class "rect"
+rectangle 216.82,47.25 226.82,123.9
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "pool"
+push graphic-context
+class "walls"
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 0.5
+class "rect"
+rectangle 336.805,0 346.805,65.1
+pop graphic-context
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 0.5
+class "rect"
+rectangle 226.82,65.1 346.805,75.1
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "stairs"
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 0.5
+class "rect"
+rectangle 226.82,47.25 233.82,65.25
+pop graphic-context
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 0.5
+class "rect"
+rectangle 233.82,47.25 240.82,65.25
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "top-courtyard"
+push graphic-context
+class "walls"
+push graphic-context
+fill "none"
+stroke "black"
+stroke-width 0.5
+class "rect"
+rectangle 226.82,111.9 336.805,121.9
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "second-row"
+push graphic-context "second-bathroom"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M 0 123.9 V224.7 H44.1 V214.7 M 44.1 194.7 V123.9"
+pop graphic-context
+push graphic-context
+class "path"
+path "M 0 157.5 H28 M 40 157.5 H44.1"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context "sb-d1"
+push graphic-context
+class "door"
+class "path"
+path "M 40 157.5 V144.5"
+pop graphic-context
+push graphic-context
+class "angle"
+class "path"
+path "M 28 157.5 Q28 144.5 40 144.5"
+pop graphic-context
+pop graphic-context
+push graphic-context "sb-d2"
+push graphic-context "sb-clear-door"
+stroke "black"
+affine 1 0 0 1 1.5 1.5
+class "path"
+path "M 44.1 214.7 V194.7"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -3 -3
+class "clear"
+use "url(#sb-clear-door)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "second-corridor"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M44.1 224.7 H85.785 V210 M85.785 143.9 V123.9"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "clear"
+push graphic-context "sc-clear-door"
+affine 1 0 0 1 1.5 1.5
+stroke-dasharray 10 5
+class "path"
+path "M85.785 210 V143.9"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -3 -3
+use "url(#sc-clear-door)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "outside-kitchen"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M85.785 224.7 H105.785 M171.035 224.7 H193 M191.035 135.9 V123.9"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "clear"
+push graphic-context "ok-clear-door"
+affine 1 0 0 1 0 -1.5
+class "path"
+path "M105.785 224.7 H171.035"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 3
+use "url(#ok-clear-door)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "wall"
+stroke-dasharray 4
+stroke-dashoffset 2
+class "path"
+path "M191.035 135.9 V170"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "living-room"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M226.82 123.9 M247.874 123.9 H254.874 M275.928 123.9 H282.928 M303.983 123.9 H308.983 M329.983 123.9 H334.805 V242.7 H303.983 M282.928 242.7 H275.928 M254.874 242.7 H247.874 M226.82 242.7 H191.035 V224.7"
+pop graphic-context
+push graphic-context
+class "clear"
+class "rect"
+rectangle 193.035,123.9 203.035,240.9
+pop graphic-context
+push graphic-context
+class "clear"
+class "rect"
+rectangle 203.035,126 304.215,136
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "windows"
+push graphic-context
+class "w1"
+push graphic-context "lr-w1"
+class "h"
+class "path"
+path "M226.82 123.9 H247.874"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#lr-w1)"
+pop graphic-context
+push graphic-context "lr-w4"
+class "hb"
+class "path"
+path "M226.82 242.7 H247.874"
+pop graphic-context
+push graphic-context
+class "hb"
+use "url(#lr-w4)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "w2"
+push graphic-context "lr-w2"
+class "h"
+class "path"
+path "M254.874 123.9 H275.874"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#lr-w2)"
+pop graphic-context
+push graphic-context "lr-w5"
+class "hb"
+class "path"
+path "M254.874 242.7 H275.874"
+pop graphic-context
+push graphic-context
+class "hb"
+use "url(#lr-w5)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "w3"
+push graphic-context "lr-w3"
+class "h"
+class "path"
+path "M282.928 123.9 H303.983"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#lr-w3)"
+pop graphic-context
+push graphic-context "lr-w6"
+class "hb"
+class "path"
+path "M282.928 242.7 H303.983"
+pop graphic-context
+push graphic-context
+class "hb"
+use "url(#lr-w6)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "path"
+path "M329.983 123.9 V145.9"
+pop graphic-context
+push graphic-context
+class "angle"
+class "path"
+path "M308.983 123.9 Q308.983 145.9 329.983 145.9"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "third-row"
+push graphic-context "guest-room"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M0 224.7 V354.9 H105.785 M171.035 354.9 H191.035 V314.9 M191.035 242.7 V262.7"
+pop graphic-context
+push graphic-context
+class "path"
+path "M68.945 329.7 H30.975 V291.9 H68.945 V301.9 M68.945 321.7 V331.7"
+pop graphic-context
+push graphic-context
+class "dashed"
+class "path"
+path "M70.4 289.5 H29.7 V253.02 H70.4 V301.9 M68.945 321.7 V331.7"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "clear"
+push graphic-context "gr-clear-door"
+affine 1 0 0 1 0 -1.5
+class "path"
+path "M105.785 354.9 H171.035"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 3
+use "url(#gr-clear-door)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "sliding-door"
+push graphic-context "gr-court-door"
+affine 1 0 0 1 -1.5 -1.5
+class "path"
+path "M191.035 314.9 V262.7"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 1.5 1.5
+use "url(#gr-court-door)"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 3 3
+use "url(#gr-court-door)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "stairs"
+push graphic-context
+class "path"
+path "M68.945 329.7 V354.9 M62.945 329.7 V354.9 M56.945 329.7 V354.9 M50.945 329.7 V354.9 M44.945 329.7 V354.9 M38.945 329.7 V354.9 M32.945 329.7 V354.9"
+pop graphic-context
+push graphic-context
+class "h"
+class "path"
+path "M29.7 327.7 H0 M29.7 321.7 H0 M29.7 315.7 H0 M29.7 309.7 H0 M29.7 303.7 H0 M29.7 297.7 H0 M29.7 291.7 H0 M29.7 285.7 H0 M29.7 279.7 H0 M29.7 273.7 H0 M29.7 267.7 H0 M29.7 261.7 H0 M29.7 255.7 H0"
+pop graphic-context
+push graphic-context
+class "path"
+path "M68.945 227.7 V253.02 M62.945 227.7 V253.02 M56.945 227.7 V253.02 M50.945 227.7 V253.02 M44.945 227.7 V253.02 M38.945 227.7 V253.02 M32.945 227.7 V253.02"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "extra"
+push graphic-context
+class "path"
+path "M68.945 329.7 L30.975 291.9 M68.945 291.9 L30.975 329.7"
+pop graphic-context
+push graphic-context
+class "path"
+path "M70.4 289.5 L29.7 253.02 M70.4 253.02 L29.7 289.5"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "fourth-row"
+push graphic-context "fourth-bathroom"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M0 354.9 V455.7 H33 M40 455.7 H44.1 V384.9 M44.1 364.9 V354.9"
+pop graphic-context
+push graphic-context
+class "path"
+path "M0 422.1 H28 M40 422.1 H44.1"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context "fb-small-door"
+push graphic-context
+class "path"
+path "M40 422.1 V435.1"
+pop graphic-context
+push graphic-context
+class "angle"
+class "path"
+path "M28 422.1 Q28 435.1 40 435.1"
+pop graphic-context
+pop graphic-context
+push graphic-context "fb-clear-door"
+push graphic-context "fb-clear"
+affine 1 0 0 1 1.5 1.5
+class "path"
+path "M44.1 384.9 V364.9"
+pop graphic-context
+push graphic-context
+class "clear"
+affine 1 0 0 1 -3 -3
+use "url(#fb-clear)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "windows"
+push graphic-context
+push graphic-context "fb-small-window"
+class "h"
+class "path"
+path "M33 455.7 H40"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#fb-small-window)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "fourth-corridor"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M44.1 354.9 H85.785 V369.6 M85.785 435.7 V455.7"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "clear"
+push graphic-context "fc-clear-door"
+affine 1 0 0 1 1.5 1.5
+stroke-dasharray 10 5
+class "path"
+path "M85.785 369.6 V435.7"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -3 -3
+use "url(#fc-clear-door)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "dining-room"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M85.785 455.7 H150.035 M184.035 455.7 H191.035 V440.7 M191.035 420.7 V354.9"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context "dr-clear-door"
+push graphic-context "dr-clear"
+affine 1 0 0 1 1.5 1.5
+class "path"
+path "M191.035 440.7 V420.7"
+pop graphic-context
+push graphic-context
+class "clear"
+affine 1 0 0 1 -3 -3
+use "url(#dr-clear)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "sliding-door"
+push graphic-context "dr-parking-door"
+affine 1 0 0 1 0 -1.5
+class "path"
+path "M150.035 455.7 H184.035"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 1.5
+use "url(#dr-parking-door)"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 3
+use "url(#dr-parking-door)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "main-guest-room"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M191.035 455.7 H226.82 M226.82 455.7 M247.874 455.7 H254.874 M275.928 455.7 H282.928 M303.983 455.7 H308.983 M329.983 455.7 H334.805 V336.7 H303.983 M282.928 336.7 H275.928 M254.874 336.7 H247.874 M226.82 336.7 H191.035 V354.7"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "windows"
+push graphic-context
+class "w1"
+push graphic-context "mgr-w1"
+class "hb"
+class "path"
+path "M226.82 455.7 H247.874"
+pop graphic-context
+push graphic-context
+class "hb"
+use "url(#mgr-w1)"
+pop graphic-context
+push graphic-context "mgr-w4"
+class "h"
+class "path"
+path "M226.82 336.7 H247.874"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#mgr-w4)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "w2"
+push graphic-context "mgr-w2"
+class "hb"
+class "path"
+path "M254.874 455.7 H275.874"
+pop graphic-context
+push graphic-context
+class "hb"
+use "url(#mgr-w2)"
+pop graphic-context
+push graphic-context "mgr-w5"
+class "h"
+class "path"
+path "M254.874 336.7 H275.874"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#mgr-w5)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "w3"
+push graphic-context "mgr-w3"
+class "hb"
+class "path"
+path "M282.928 455.7 H303.983"
+pop graphic-context
+push graphic-context
+class "hb"
+use "url(#mgr-w3)"
+pop graphic-context
+push graphic-context "mgr-w6"
+class "h"
+class "path"
+path "M282.928 336.7 H303.983"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#mgr-w6)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "path"
+path "M329.983 455.7 V433.7"
+pop graphic-context
+push graphic-context
+class "angle"
+class "path"
+path "M308.983 455.7 Q308.983 433.7 329.983 433.7"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "fifth-row"
+push graphic-context "driver-room"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M0 455.7 V600 H44.1 M44.1 455.7 V460.7 M44.1 488.7 V600"
+pop graphic-context
+push graphic-context
+class "path"
+path "M44.1 493.7 H40 M33 493.7 H0 M0 520.8 H28 M40 520.8 H44.1"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "windows"
+push graphic-context
+push graphic-context "dvr-big-window"
+affine 1 0 0 1 1.5 1.5
+class "path"
+path "M44.1 460.7 V488.7"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -3 -3
+use "url(#dvr-big-window)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context "dvr-small-window"
+class "h"
+class "path"
+path "M33 493.7 H40"
+pop graphic-context
+push graphic-context
+class "h"
+use "url(#dvr-small-window)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "path"
+path "M40 520.8 V508.8"
+pop graphic-context
+push graphic-context
+class "angle"
+class "path"
+path "M28 520.8 Q28 508.8 40 508.8"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "extra"
+push graphic-context
+class "path"
+path "M0 493.7 L44.1 455.7 M44.1 493.7 L0 455.7"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "second-guest-room"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M85.785 455.7 V460.7 M85.785 488.7 V493.7 H113.785 M125.785 493.7 H131.785 M143.785 493.7 H147.515 V510.7 M147.515 583.7 V600"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "windows"
+push graphic-context
+push graphic-context "sgr-fw"
+affine 1 0 0 1 1.5 1.5
+class "path"
+path "M85.785 460.7 V488.7"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -3 -3
+use "url(#sgr-fw)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context "sgr-sw"
+affine 1 0 0 1 0 1.5
+class "path"
+path "M113.785 493.7 H125.785"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 -3
+use "url(#sgr-sw)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context "sgr-tw"
+affine 1 0 0 1 0 1.5
+class "path"
+path "M131.785 493.7 H143.785"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 -3
+use "url(#sgr-tw)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context "sgr-mw"
+affine 1 0 0 1 1.5 1.5
+class "path"
+path "M147.515 510.7 V583.7"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 -3 -3
+use "url(#sgr-mw)"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "parking"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M147.515 591.85 H154.515 M197.515 591.85 H210.515 M255.515 591.85 H265.515 M264 503.7 V491.7"
+pop graphic-context
+push graphic-context
+class "dashed2"
+class "path"
+path "M147.515 492 H265.515 M265.515 503.7 V591.85"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context "p-d"
+affine 1 0 0 1 0 0.5
+class "path"
+path "M154.515 591.85 H197.515 M210.515 591.85 H255.515"
+pop graphic-context
+push graphic-context
+affine 1 0 0 1 0 -1
+use "url(#p-d)"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "extra"
+push graphic-context
+push graphic-context
+class "path"
+path "M147.515 591.85 L176.015 457 L204.015 591.85"
+pop graphic-context
+push graphic-context
+class "dashed2"
+class "path"
+path "M176.015 591.85 V457"
+pop graphic-context
+pop graphic-context
+push graphic-context
+push graphic-context
+class "path"
+path "M204.015 591.85 L233.015 457 L261.015 591.85"
+pop graphic-context
+push graphic-context
+class "dashed2"
+class "path"
+path "M233.015 591.85 V457"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+push graphic-context "enterance"
+push graphic-context
+class "walls"
+push graphic-context
+class "path"
+path "M264 590 V600 H308.983 M329.983 600 H421"
+pop graphic-context
+pop graphic-context
+push graphic-context
+class "doors"
+push graphic-context
+class "path"
+path "M329.983 600 V578"
+pop graphic-context
+push graphic-context
+class "angle"
+class "path"
+path "M308.983 600 Q308.983 578 329.983 578"
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
