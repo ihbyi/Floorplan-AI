@@ -307,13 +307,6 @@
               stroke="black"
               stroke-width="4"
             />
-            <!-- 
-              x: top-bedroom's width + main-kitchen's width + terrass's width - wall's width
-              top-bedroom width + main-kitchen width = 140.515
-              terrass width = 86.305
-              wall width = 10
-              x= 140.515 + 86.305 - 10 = 216.82
-            -->
             <rect
               x="216.82"
               y="47.25"
@@ -326,10 +319,6 @@
           </g>
         </g>
         <g id="pool">
-          <!--
-            Pool width = 119.985
-            Pool height = 65.1  
-          -->
           <g class="walls">
             <rect
               x="336.805"
